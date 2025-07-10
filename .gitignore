@@ -1,0 +1,80 @@
+# ---- General ----
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# ---- Python / Backend ----
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+dist/
+build/
+.eggs/
+*.egg-info/
+*.egg
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Testing / coverage
+.pytest_cache/
+.mypy_cache/
+coverage/
+htmlcov/
+.cache/
+.coverage
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# ---- Node.js / Frontend ----
+node_modules/
+# Lock files (generated automatically)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# ---- IDEs / Editors ----
+.vscode/
+.idea/
+*.sw?
+*~
+
+# ---- Database / Data files ----
+*.sqlite3
+*.db
+
+# ---- Misc ----
+# macOS Finder attributes
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache
+Thumbs.db
+ ehthumbs.db
+
+# VS Code local history
+.history/

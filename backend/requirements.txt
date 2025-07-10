@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pydantic
+python-dotenv
+sendgrid
+langchain
+openai
+langchain-openai 
+email-validator 
+agentops[langchain] 
