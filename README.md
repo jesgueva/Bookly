@@ -79,6 +79,33 @@ I need to see Dr Smith sometime next week for a follow-up. Could you let me know
 Best regards,
 Mary Jones
 ```
+LLM Response
+```text
+Hello Mary,
+
+Thank you for your email. To assist you better, could you please provide me with your preferred days and times for the appointment with Dr. Smith next week? 
+
+Looking forward to your response.
+
+Best regards,
+Bookly
+```
+
+Human Response
+```text
+Hello Bookly,
+
+Thank you for getting back to me so quickly. I would prefer to schedule the appointment with Dr. Smith on either:
+
+- Tuesday, July 30th at 2:00 PM
+- Wednesday, July 31st at 10:30 AM  
+- Thursday, August 1st at 3:15 PM
+
+Any of these times would work well for me. Please let me know which slot is available.
+
+Best regards,
+Mary Jones
+```
 
 ---
 
